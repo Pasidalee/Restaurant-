@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: white;
+  color: white;
+  font-family: 'Andika New Basic', sans-serif;
+  font-size: 16px;
+
+}
+
+.ax{float: left;
+
+}
+
+#header-nav{
+  background-color:#618685;
+  border-radius: 0;
+    border: 0;
+
+}
+
+a{color: white;
+text-decoration: none;}
+
+
+#nav-list a:hover{
+ 
+ background-color: white;
+ 
+  }
+
+  li{font-weight: bold;
+  font-size: 20px;
+}
+  #nav-list{
+    text-align: center;
+  }
+
+  .navbar-brand a:hover{
+    color: black;
+  }
+
+   button.navbar-toggler {
+    border: 10px solid black;
+    clear: both;
+
+  }
+
+#rr{
+
+  height: 800px;
+ margin:10px; 
+ padding: 20px;  
+ }
+
+ #ch{
+  margin: 10px; 
+  height: 700px;
+  padding: 30px;
+  background-color: #b5e7a0;  
+ }
+
+
+ #sp{
+  
+  color: black;
+ 
+ }
+
+h1,h4 {
+  color: black;
+  text-align: center;
+}
+
+ul{
+  background-color: #b9936c;
+
+}
+h4{
+  margin-bottom: 15px;
+}
+
+
